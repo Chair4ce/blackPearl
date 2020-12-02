@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Avenir Next';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Avenir Next'), url('app/fonts/AvenirNext/AvenirNextLTPro-Regular.woff') format('woff');
+}
+
+body {
+    background: #2F343B;
+    font-family: "Avenir Next", sans-serif;
+    margin: 0 8px 0 0;
+}

@@ -1,0 +1,6 @@
+CREATE TABLE resource (
+  id INT (11) NOT NULL AUTO_INCREMENT,
+  url VARCHAR (128) NOT NULL,
+  name VARCHAR (64) NOT NULL,
+  PRIMARY KEY (id)
+);
